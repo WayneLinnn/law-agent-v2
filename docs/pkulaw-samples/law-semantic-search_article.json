@@ -1,0 +1,85 @@
+{
+  "tool": "search_article",
+  "args": {
+    "text": "城东望湖苑二期的工程价款如何结算",
+    "size": 5
+  },
+  "res": {
+    "content": [
+      {
+        "type": "text",
+        "text": "[{\"gid\":\"90cfcc3a3a00eb4cbdfb\",\"title\":\"建设工程价款结算办法\",\"article\":\"\",\"doc_no\":\"\",\"timeliness\":\"现行有效\",\"effectiveness\":\"行业规定\",\"issue_department\":\"中国(人民)建设银行\",\"issue_date\":\"1989-07-25\",\"implementation_date\":\"\",\"lib\":\"chl\",\"url\":\"https://pkulaw.com/chl/90cfcc3a3a00eb4cbdfb.html\"},{\"gid\":\"c0aed62caae0828dbdfb\",\"title\":\"财政部、建设部关于印发《建设工程价款结算暂行办法》的通知\",\"article\":\"\",\"doc_no\":\"财建〔2004〕369号\",\"timeliness\":\"现行有效\",\"effectiveness\":\"部门规范性文件\",\"issue_department\":\"财政部等\",\"issue_date\":\"2004-10-20\",\"implementation_date\":\"\",\"lib\":\"chl\",\"url\":\"https://pkulaw.com/chl/c0aed62caae0828dbdfb.html\"},{\"gid\":\"c0ed9766c5876cb82cba7347ebdac706bdfb\",\"title\":\"黑龙江省住房和城乡建设厅关于进一步规范建设工程价款结算与支付的意见(含结算参照标准)\",\"article\":\"\",\"doc_no\":\"黑建规范〔2020〕10号\",\"timeliness\":\"已被修改\",\"effectiveness\":\"地方规范性文件\",\"issue_department\":\"黑龙江省住房和城乡建设厅\",\"issue_date\":\"2020-11-12\",\"implementation_date\":\"\",\"lib\":\"lar\",\"url\":\"https://pkulaw.com/lar/c0ed9766c5876cb82cba7347ebdac706bdfb.html\"},{\"gid\":\"d1a2db2c7096bcaebdfb\",\"title\":\"财政部、住房城乡建设部关于完善建设工程价款结算有关办法的通知\",\"article\":\"\",\"doc_no\":\"财建〔2022〕183号\",\"timeliness\":\"现行有效\",\"effectiveness\":\"部门规范性文件\",\"issue_department\":\"财政部等\",\"issue_date\":\"2022-06-14\",\"implementation_date\":\"\",\"lib\":\"chl\",\"url\":\"https://pkulaw.com/chl/d1a2db2c7096bcaebdfb.html\"},{\"gid\":\"0b73ddbed4052858bdfb\",\"title\":\"中国人民建设银行建设工程价款结算办法\",\"article\":\"\",\"doc_no\":\"\",\"timeliness\":\"现行有效\",\"effectiveness\":\"行业规定\",\"issue_department\":\"中国(人民)建设银行\",\"issue_date\":\"1989-07-25\",\"implementation_date\":\"\",\"lib\":\"chl\",\"url\":\"https://pkulaw.com/chl/0b73ddbed4052858bdfb.html\"}]"
+      }
+    ],
+    "structuredContent": {
+      "result": [
+        {
+          "gid": "90cfcc3a3a00eb4cbdfb",
+          "title": "建设工程价款结算办法",
+          "article": "",
+          "doc_no": "",
+          "timeliness": "现行有效",
+          "effectiveness": "行业规定",
+          "issue_department": "中国(人民)建设银行",
+          "issue_date": "1989-07-25",
+          "implementation_date": "",
+          "lib": "chl",
+          "url": "https://pkulaw.com/chl/90cfcc3a3a00eb4cbdfb.html"
+        },
+        {
+          "gid": "c0aed62caae0828dbdfb",
+          "title": "财政部、建设部关于印发《建设工程价款结算暂行办法》的通知",
+          "article": "",
+          "doc_no": "财建〔2004〕369号",
+          "timeliness": "现行有效",
+          "effectiveness": "部门规范性文件",
+          "issue_department": "财政部等",
+          "issue_date": "2004-10-20",
+          "implementation_date": "",
+          "lib": "chl",
+          "url": "https://pkulaw.com/chl/c0aed62caae0828dbdfb.html"
+        },
+        {
+          "gid": "c0ed9766c5876cb82cba7347ebdac706bdfb",
+          "title": "黑龙江省住房和城乡建设厅关于进一步规范建设工程价款结算与支付的意见(含结算参照标准)",
+          "article": "",
+          "doc_no": "黑建规范〔2020〕10号",
+          "timeliness": "已被修改",
+          "effectiveness": "地方规范性文件",
+          "issue_department": "黑龙江省住房和城乡建设厅",
+          "issue_date": "2020-11-12",
+          "implementation_date": "",
+          "lib": "lar",
+          "url": "https://pkulaw.com/lar/c0ed9766c5876cb82cba7347ebdac706bdfb.html"
+        },
+        {
+          "gid": "d1a2db2c7096bcaebdfb",
+          "title": "财政部、住房城乡建设部关于完善建设工程价款结算有关办法的通知",
+          "article": "",
+          "doc_no": "财建〔2022〕183号",
+          "timeliness": "现行有效",
+          "effectiveness": "部门规范性文件",
+          "issue_department": "财政部等",
+          "issue_date": "2022-06-14",
+          "implementation_date": "",
+          "lib": "chl",
+          "url": "https://pkulaw.com/chl/d1a2db2c7096bcaebdfb.html"
+        },
+        {
+          "gid": "0b73ddbed4052858bdfb",
+          "title": "中国人民建设银行建设工程价款结算办法",
+          "article": "",
+          "doc_no": "",
+          "timeliness": "现行有效",
+          "effectiveness": "行业规定",
+          "issue_department": "中国(人民)建设银行",
+          "issue_date": "1989-07-25",
+          "implementation_date": "",
+          "lib": "chl",
+          "url": "https://pkulaw.com/chl/0b73ddbed4052858bdfb.html"
+        }
+      ]
+    },
+    "isError": false
+  }
+}

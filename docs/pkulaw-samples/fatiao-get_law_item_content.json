@@ -1,0 +1,56 @@
+{
+  "tool": "get_law_item_content",
+  "args": {
+    "lawTitle": "民法典",
+    "articleNumber": "807"
+  },
+  "res": {
+    "_meta": {
+      "pkulaw/evidence": {
+        "origin": "catalog",
+        "confidence": "A",
+        "verifiedByApi": true,
+        "retrievedAt": "2026-10-24T04:22:24Z",
+        "notes": []
+      }
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "《中华人民共和国民法典》第八百零七条（现行有效）\n施行日期：2021-01-01\n\n第八百零七条　发包人未按照约定支付价款的，承包人可以催告发包人在合理期限内支付价款。发包人逾期不支付的，除根据建设工程的性质不宜折价、拍卖外，承包人可以与发包人协议将该工程折价，也可以请求人民法院将该工程依法拍卖。建设工程的价款就该工程折价或者拍卖的价款优先受偿。\n\nhttps://www.pkulaw.com/chl/aa00daaeb5a4fe4ebdfb.html?way=mcp#tiao_807"
+      }
+    ],
+    "structuredContent": {
+      "lawTitle": "中华人民共和国民法典",
+      "articleNumber": "807",
+      "articleLabel": "第八百零七条",
+      "content": "第八百零七条　发包人未按照约定支付价款的，承包人可以催告发包人在合理期限内支付价款。发包人逾期不支付的，除根据建设工程的性质不宜折价、拍卖外，承包人可以与发包人协议将该工程折价，也可以请求人民法院将该工程依法拍卖。建设工程的价款就该工程折价或者拍卖的价款优先受偿。",
+      "documentNo": "中华人民共和国主席令第45号",
+      "timeliness": "现行有效",
+      "effectiveness": [
+        "法律"
+      ],
+      "issueDepartment": [
+        "全国人民代表大会"
+      ],
+      "category": [
+        "民法"
+      ],
+      "issueDate": "2020-05-28",
+      "implementDate": "2021-01-01",
+      "scope": "中央法规",
+      "citation": {
+        "lawTitle": "中华人民共和国民法典",
+        "lawShort": null,
+        "versionLabel": "现行有效",
+        "articleNumber": "807",
+        "articleLabel": "第八百零七条",
+        "anchorId": "tiao_807",
+        "url": "https://www.pkulaw.com/chl/aa00daaeb5a4fe4ebdfb.html?way=mcp#tiao_807",
+        "formatChinese": "《中华人民共和国民法典》第八百零七条",
+        "formatBluebook": null
+      }
+    },
+    "isError": false
+  }
+}
